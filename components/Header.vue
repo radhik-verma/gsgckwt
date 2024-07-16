@@ -76,7 +76,7 @@ const menuItems = ref([
     item: "About Us",
     url: "/about",
     children: [
-      { item: "Who we are", url: "/about" },
+      { item: "Who we are", url: "/" },
       { item: "Our mission", url: "/about/mission" },
       { item: "Our vision", url: "/about/vision" },
       { item: "Our Strengths", url: "/about/strength" },
