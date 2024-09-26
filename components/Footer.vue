@@ -1,11 +1,7 @@
 <template>
   <div class="w-full bg-gray-800 mt-10">
     <div class="container mx-auto">
-<<<<<<< HEAD
       <!-- <div class="flex justify-center items-center h-14">
-=======
-      <div class="flex justify-center items-center h-14">
->>>>>>> 1a6ed3133b69c4c5a7d3d6304f131a1070a52954
         <div class="w-full border-r-2">
           <h1 class="text-white text-xl font-extralight text-center">HSE</h1>
         </div>
@@ -15,19 +11,11 @@
         <div class="w-full">
           <h1 class="text-white text-xl font-extralight text-center">Qualification</h1>
         </div>
-<<<<<<< HEAD
       </div> -->
 
       <div class="flex justify-around ">
         <div class="my-4">
             <img src="../assets/images/logo.jpeg" alt="">
-=======
-      </div>
-
-      <div class="flex justify-around border-t-2">
-        <div class="my-4">
-            <img src="../assets/images/logo.png" alt="">
->>>>>>> 1a6ed3133b69c4c5a7d3d6304f131a1070a52954
 <div>
             <p class="mt-4 max-w-xs text-white">
             GREEN SPRING GROUP COMPANY
@@ -41,7 +29,6 @@
                 Quick Links
             </h1>
             <ul class="my-4">
-<<<<<<< HEAD
                 <li class="my-4">
                     <NuxtLink to="/" class="text-white hover:text-gray-300 transition-colors duration-200">
                         Home
@@ -57,19 +44,6 @@
                     <NuxtLink to="/careers" class="text-white hover:text-gray-300 transition-colors duration-200">
                         Careers
                     </NuxtLink>
-=======
-                <li class="my-4 text-white">
-                    Home
-                </li>
-                <li class="my-4 text-white">
-                    About
-                </li>
-                <li class="my-4 text-white">
-                    Projects
-                </li >
-                <li class="my-4 text-white">
-                    Careers
->>>>>>> 1a6ed3133b69c4c5a7d3d6304f131a1070a52954
                 </li>
             </ul>
         </div>
